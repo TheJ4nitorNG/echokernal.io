@@ -28,9 +28,9 @@ const portfolioData = {
             image: "assets/foundry.png"
         },
         {
-            title: "KLB Industrial Web",
+            title: "KLB Industrial Website",
             description: "A professional corporate website developed for KLB Industrial Corp.",
-            url: "https://klb-industrial-web.vercel.app",
+            url: "https://klbindustrial.com",
             tags: ["React.js", "Corporate"],
             image: "assets/klb.png"
         }
