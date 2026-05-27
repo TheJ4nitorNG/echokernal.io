@@ -141,7 +141,7 @@ a:hover {
 
 .brand-logo {
     height: 74px;
-    width: 74px;
+    width: auto;
     border-radius: 4.5px;
     object-fit: contain;
     filter: invert(1);
