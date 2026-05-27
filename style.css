@@ -39,6 +39,13 @@ body.light-mode {
     --error-color: #b00020;
 }
 
+body.light-mode .brand-logo,
+body.light-mode .hero-icon,
+body.light-mode .contact-logo {
+    filter: invert(0);
+}
+
+
 *,::before,::after {
     box-sizing: border-box;
     border: 0;
@@ -140,12 +147,14 @@ a:hover {
 }
 
 .brand-logo {
-    height: 80px;
-    width: 350px;
+    height: 60px;
+    width: auto;
     border-radius: 4.5px;
-    object-fit: cover;
-    object-position: center;
+    object-fit: contain;
     filter: invert(1);
+    transition: filter 0.3s ease;
+    transform: scale(3.5);
+    transform-origin: left center;
 }
 
 .nav-links {
@@ -209,6 +218,13 @@ a:hover {
     width: auto;
     object-fit: contain;
     filter: invert(1);
+    transition: filter 0.3s ease;
+}
+
+
+.contact-logo {
+    filter: invert(1);
+    transition: filter 0.3s ease;
 }
 
 .hero-text {
