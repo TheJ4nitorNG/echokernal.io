@@ -140,10 +140,11 @@ a:hover {
 }
 
 .brand-logo {
-    height: 120px;
-    width: auto;
+    height: 80px;
+    width: 350px;
     border-radius: 4.5px;
-    object-fit: contain;
+    object-fit: cover;
+    object-position: center;
     filter: invert(1);
 }
 
@@ -468,7 +469,8 @@ footer {
     }
 
     .brand-logo {
-        height: 50px;
+        height: 150px;
+        margin: -40px 0;
     }
 
     .social-links a {
