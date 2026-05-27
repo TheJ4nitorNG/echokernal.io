@@ -132,9 +132,11 @@ a:hover {
 }
 
 .brand-text {
-    height: 28px;
-    width: auto;
+    font-size: 1.5rem;
+    font-weight: 800;
+    color: var(--text-primary);
     margin-bottom: 0;
+    white-space: nowrap;
 }
 
 .brand-logo {
@@ -142,6 +144,7 @@ a:hover {
     width: 74px;
     border-radius: 4.5px;
     object-fit: contain;
+    filter: invert(1);
 }
 
 .nav-links {
@@ -204,6 +207,7 @@ a:hover {
     max-height: 750px;
     width: auto;
     object-fit: contain;
+    filter: invert(1);
 }
 
 .hero-text {
