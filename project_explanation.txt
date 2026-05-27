@@ -1,0 +1,12 @@
+Project Explanation: Nullframe Portfolio
+
+The project is a personal portfolio and business website for Jeff Elder's full-stack development studio, "Nullframe". It is a static, multi-page web application built with vanilla HTML, CSS, and JavaScript. 
+
+Key aspects of the project include:
+- **Pages**: Home (index), About, Projects, Contact, and a Thank You page.
+- **Styling**: A robust CSS file (`style.css`) that manages responsive layouts, typography (using Google Fonts), and supports both Dark and Light themes through CSS custom properties.
+- **Interactivity**: The `script.js` file handles rendering dynamic content (the skills list and the project cards) from a central JSON-like data object (`portfolioData`). It also manages the state and persistence of the theme toggle feature using `localStorage`.
+- **Contact Form**: Uses Formspree (`formspree.io`) as the backend for the contact form, redirecting users to the `thankyou.html` page upon successful submission.
+- **Assets**: Various SVG and PNG images representing the studio's branding and screenshots of past projects.
+
+Overall, it's a lightweight, well-structured, and easily maintainable static site designed to showcase the developer's work and attract freelance clients.
