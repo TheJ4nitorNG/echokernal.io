@@ -10,7 +10,7 @@ const portfolioData = {
             title: "Dev-sync",
             description: "Like Pinterest for Developers, find interesting code snippets for your projects.",
             url: "https://devedit.app",
-            tags: ["Full Stack", "Community"],
+            tags: ["Full Stack", "Community", "Tech"],
             image: "assets/devsync.png"
         },
         {
