@@ -7,6 +7,13 @@ const portfolioData = {
     ],
     projects: [
         {
+            title: "MultAI.ca",
+            description: "The website for multai.ca, still under construction.",
+            url: "https://www.multai.ca",
+            tags: ["Web Design", "AI"],
+            image: "assets/multai.png"
+        },
+        {
             title: "Dev-sync",
             description: "Like Pinterest for Developers, find interesting code snippets for your projects.",
             url: "https://devedit.app",
