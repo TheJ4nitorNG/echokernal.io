@@ -7,6 +7,13 @@ const portfolioData = {
     ],
     projects: [
         {
+            title: "Dev-sync",
+            description: "Like Pinterest for Developers, find interesting code snippets for your projects.",
+            url: "https://devedit.app",
+            tags: ["Full Stack", "Community"],
+            image: "assets/devsync.png"
+        },
+        {
             title: "QRing.io",
             description: "A website built for MultAI's post-quantum crypto called QRing.",
             url: "https://qring.io",
