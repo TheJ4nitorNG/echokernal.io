@@ -3,7 +3,7 @@ const portfolioData = {
     skills: [
         "JavaScript", "TypeScript", "HTML5", "CSS3", 
         "PostgreSQL", "Supabase", "React.js", "Twilio", 
-        "Resend", "GameMaker Language (GML)"
+        "Resend", "GameMaker Language (GML)", "Flutter/DART App Development"
     ],
     projects: [
         {
