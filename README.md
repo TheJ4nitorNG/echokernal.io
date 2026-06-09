@@ -1,6 +1,6 @@
-# Nullframe Portfolio Website
+# Orphic Node Portfolio Website
 
-This repository contains the source code for the **Nullframe** portfolio website, a personal web development studio by Jeff Elder based in Manitoba, Canada.
+This repository contains the source code for the **Orphic Node** portfolio website, a personal web development studio by Jeff Elder based in Manitoba, Canada.
 
 The site serves as a digital portfolio to showcase technical skills, featured projects, and provide a contact point for potential clients. It is built using standard web technologies (HTML, CSS, JavaScript) without heavy frameworks, demonstrating a clean, responsive, and performant design with built-in dark/light mode functionality.
 
