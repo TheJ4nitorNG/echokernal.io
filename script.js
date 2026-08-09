@@ -47,6 +47,34 @@ const portfolioData = {
             url: "https://klbindustrial.com",
             tags: ["React.js", "Corporate"],
             image: "assets/klb.png"
+        },
+        {
+            title: "DevPilot",
+            description: "Powershell program uses Ollama to simplify commands so you can just ask in plain english what you want done, and DevPilot will run the correct command for that function.",
+            url: "https://github.com/TheJ4nitorNG/DevPilot",
+            tags: ["PowerShell", "CLI", "AI Tool"],
+            image: "assets/devpilot.png"
+        },
+        {
+            title: "WTFKit",
+            description: "A PowerShell/command line debugger tool.",
+            url: "https://wtfkit.online",
+            tags: ["PowerShell", "Debugger", "CLI"],
+            image: "assets/wtfkit.png"
+        },
+        {
+            title: "CmdSim",
+            description: "Simulate your commands before you actually run them!",
+            url: "https://github.com/TheJ4nitorNG/cmdsim/tree/master",
+            tags: ["PowerShell", "CLI", "Simulator"],
+            image: "assets/cmdsim.png"
+        },
+        {
+            title: "WTFKit Online",
+            description: "A website built to host the WTFKit files and explain how to install and use it properly.",
+            url: "https://wtfkit.online/",
+            tags: ["Web Design", "Documentation"],
+            image: "assets/wtfkitonline.png"
         }
     ]
 };
